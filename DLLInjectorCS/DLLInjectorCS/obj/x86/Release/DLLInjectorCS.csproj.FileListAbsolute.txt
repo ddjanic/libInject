@@ -1,0 +1,18 @@
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\bin\Release\DLLInjectorCS.exe
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\bin\Release\DLLInjectorCS.pdb
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.DLLInjector.resources
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.Properties.Resources.resources
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.exe
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.pdb
+C:\Users\Max\documents\visual studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\bin\Release\DLLInjectorCS.exe.config
+C:\Users\Max\Documents\Visual Studio 2010\Projects\DLLInjectorCS\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.csproj.GenerateResource.Cache
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\bin\Release\DLLInjectorCS.exe.config
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\bin\Release\DLLInjectorCS.exe
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\bin\Release\DLLInjectorCS.pdb
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.csprojResolveAssemblyReference.cache
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.DLLInjector.resources
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.csproj.GenerateResource.cache
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.exe
+C:\Users\ddjanic\Desktop\Проекты\DLLInjectorCS-master\DLLInjectorCS-master\DLLInjectorCS\obj\x86\Release\DLLInjectorCS.pdb
